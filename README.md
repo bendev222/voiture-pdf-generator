@@ -1,4 +1,4 @@
-# Bonjour, je m'appelle Benjamin 👋
+# Bonjour, je m'appelle Benjamin 
 
 Développeur junior passionné par Python et le développement logiciel.
 
@@ -13,7 +13,7 @@ Depuis, je travaille régulièrement sur :
 - projets personnels
 - exercices Codewars
 
-## 🚀 Mon objectif
+## Mon objectif
 
 Continuer à progresser techniquement et rejoindre une entreprise où je pourrai apprendre auprès de développeurs expérimentés 
 et contribuer à des projets concrets.
